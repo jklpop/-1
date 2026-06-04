@@ -1,0 +1,6 @@
+{
+  "name": "القرآن الكريم",
+  "description": "تطبيق القرآن الكريم الاحترافي باللغة العربية مع تلاوة صوتية وتصميم إسلامي فاخر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
